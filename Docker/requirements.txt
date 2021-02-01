@@ -1,0 +1,16 @@
+numpy==1.18.5
+torch==1.4.0 
+pandas
+more-itertools 
+scipy
+matplotlib
+tensorflow==1.15.0 
+tensorflow-probability==0.8.0
+statsmodels
+scipy
+google-cloud-storage==1.29.0
+google-auth-oauthlib==0.4.1
+treelib==1.6.1
+
+
+
